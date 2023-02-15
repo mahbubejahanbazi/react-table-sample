@@ -1,1 +1,1 @@
-# react-table-sample
+# React Table Sample
