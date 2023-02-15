@@ -1,4 +1,4 @@
-export const cols = [
+export const columnsInfo = [
   {
     Header: 'ID',
     Footer: 'ID',
